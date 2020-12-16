@@ -6,6 +6,7 @@ public class SpielAnweisung {
      * Fehler überprüfung (keine Zahl zwischen 1 und 7 & ob die Spalte voll ist)
      * Spieler == true --> X
      * Spieler == false --> O
+     * Test
      *
      * @param spielFeld
      * @throws Exception
